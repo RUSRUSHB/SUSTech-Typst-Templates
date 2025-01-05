@@ -16,3 +16,7 @@
 ### 研究生
 
 [南方科技大学研究生学位论文](https://github.com/sses7757/sustech-graduated-thesis) 最后修改时间：![GitHub last commit](https://img.shields.io/github/last-commit/sses7757/sustech-graduated-thesis)
+
+## 相关链接
+
+[SUSTech LaTeX 模板目录](https://github.com/SUSTC/latex-template)
